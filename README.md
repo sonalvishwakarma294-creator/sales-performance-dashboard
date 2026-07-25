@@ -27,9 +27,7 @@ sales-report-dashboard/
 ├── Sales_Report.pbix
 ├── Sales_Dataset.xlsx
 ├── README.md
-└── screenshots/
-    ├── home-page.png
-    └── overview-page.png
+
 ```
 
 ## How to Use
